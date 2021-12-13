@@ -1,3 +1,4 @@
+// The whole defining class
 class MrCoxallStack {
   var stackAsArray: [Int] = []
 
